@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 import { store } from "./redux/store.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename='/node_bc68_front_kiianskii'>
     <Provider store={store}>
       <App />
     </Provider>
