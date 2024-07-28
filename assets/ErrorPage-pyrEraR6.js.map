@@ -1,0 +1,1 @@
+{"version":3,"file":"ErrorPage-pyrEraR6.js","sources":["../../src/pages/ErrorPage/ErrorPage.jsx"],"sourcesContent":["function ErrorPage() {\n  return <div>ErrorPage</div>;\n}\n\nexport default ErrorPage;\n"],"names":["ErrorPage","jsx"],"mappings":"wCAAA,SAASA,GAAY,CACZ,OAAAC,EAAA,IAAC,OAAI,SAAS,WAAA,CAAA,CACvB"}
